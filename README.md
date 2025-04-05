@@ -48,8 +48,8 @@ This project focuses on building a machine learning model to predict whether a c
 
 - **Best Performing Model**: Random Forest
 - **Evaluation Metrics**:
-  - Accuracy: ~`XX%`
-  - AUC Score: ~`XX`
+  - Accuracy: ~  0.95
+  - AUC Score: ~ 0.9840728100113767
 
 ---
 
